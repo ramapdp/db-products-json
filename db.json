@@ -1,0 +1,114 @@
+{
+   "products": [
+      {
+        "id": 1,
+        "name": "Smartphone X",
+        "category": "Electronics",
+        "price": 599.99,
+        "description": "A high-end smartphone with advanced features.",
+        "in_stock": true,
+        "manufacturer": "TechCorp",
+        "ratings": 4.5,
+        "image_url": "https://example.com/images/smartphone.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Laptop Pro",
+        "category": "Computers",
+        "price": 1299.99,
+        "description": "Powerful laptop for professionals and gamers.",
+        "in_stock": true,
+        "manufacturer": "MegaTech",
+        "ratings": 4.8,
+        "image_url": "https://example.com/images/laptop.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Ultra HD TV",
+        "category": "Electronics",
+        "price": 899.99,
+        "description": "Immerse yourself in stunning 4K visuals.",
+        "in_stock": false,
+        "manufacturer": "VisionTech",
+        "ratings": 4.3,
+        "image_url": "https://example.com/images/tv.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Wireless Headphones",
+        "category": "Accessories",
+        "price": 149.99,
+        "description": "Enjoy music without the hassle of wires.",
+        "in_stock": true,
+        "manufacturer": "AudioWave",
+        "ratings": 4.7,
+        "image_url": "https://example.com/images/headphones.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Coffee Maker Deluxe",
+        "category": "Appliances",
+        "price": 79.99,
+        "description": "Brew the perfect cup of coffee every time.",
+        "in_stock": true,
+        "manufacturer": "KitchenMaster",
+        "ratings": 4.2,
+        "image_url": "https://example.com/images/coffee_maker.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Fitness Tracker",
+        "category": "Fitness",
+        "price": 49.99,
+        "description": "Monitor your activity and health on the go.",
+        "in_stock": true,
+        "manufacturer": "HealthTech",
+        "ratings": 4.0,
+        "image_url": "https://example.com/images/fitness_tracker.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Gaming Mouse",
+        "category": "Gaming",
+        "price": 39.99,
+        "description": "Precise and responsive mouse for gamers.",
+        "in_stock": true,
+        "manufacturer": "GameGears",
+        "ratings": 4.6,
+        "image_url": "https://example.com/images/gaming_mouse.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Home Security Camera",
+        "category": "Home",
+        "price": 129.99,
+        "description": "Keep an eye on your home with high-definition cameras.",
+        "in_stock": true,
+        "manufacturer": "SecureHome",
+        "ratings": 4.4,
+        "image_url": "https://example.com/images/security_camera.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Bluetooth Speaker",
+        "category": "Audio",
+        "price": 59.99,
+        "description": "Portable speaker with rich sound quality.",
+        "in_stock": true,
+        "manufacturer": "SoundWave",
+        "ratings": 4.1,
+        "image_url": "https://example.com/images/bluetooth_speaker.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Electric Toothbrush",
+        "category": "Personal Care",
+        "price": 34.99,
+        "description": "Efficient toothbrush for oral hygiene.",
+        "in_stock": true,
+        "manufacturer": "DentalCare",
+        "ratings": 4.5,
+        "image_url": "https://example.com/images/electric_toothbrush.jpg"
+      }
+    ]  
+}
