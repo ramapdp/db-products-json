@@ -2,113 +2,57 @@
    "products": [
       {
         "id": 1,
-        "name": "Smartphone X",
-        "category": "Electronics",
-        "price": 599.99,
-        "description": "A high-end smartphone with advanced features.",
-        "in_stock": true,
-        "manufacturer": "TechCorp",
-        "ratings": 4.5,
-        "image_url": "https://example.com/images/smartphone.jpg"
+        "name": "Nomad Pouch",
+        "price": "$50",
+        "description": "A sleek and adaptable organizer designed for various needs. Perfect for travel essentials, tech gadgets, or everyday items, ensuring convenient and stylish storage on the go.",
+        "availability": "White and Black",
+        "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-07-product-01.jpg",
+        "image_alt": "White fabric pouch with white zipper, black zipper pull, and black elastic loop."
       },
       {
         "id": 2,
-        "name": "Laptop Pro",
-        "category": "Computers",
-        "price": 1299.99,
-        "description": "Powerful laptop for professionals and gamers.",
-        "in_stock": true,
-        "manufacturer": "MegaTech",
-        "ratings": 4.8,
-        "image_url": "https://example.com/images/laptop.jpg"
+        "name": "Zip Tote Basket",
+        "price": "$140",
+        "description": "A practical and spacious carryall with a secure zip closure, combining style and function for organized storage.",
+        "availability": "Washed Black",
+        "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-07-product-02.jpg",
+        "image_alt": "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents."
       },
       {
         "id": 3,
-        "name": "Ultra HD TV",
-        "category": "Electronics",
-        "price": 899.99,
-        "description": "Immerse yourself in stunning 4K visuals.",
-        "in_stock": false,
-        "manufacturer": "VisionTech",
-        "ratings": 4.3,
-        "image_url": "https://example.com/images/tv.jpg"
+        "name": "Medium Stuff Satchel",
+        "price": "$220",
+        "description": "Compact and versatile satchel for everyday essentials, offering convenient storage with a touch of sophistication.",
+        "availability": "Blue",
+        "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-07-product-03.jpg",
+        "image_alt": "Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch."
       },
       {
         "id": 4,
-        "name": "Wireless Headphones",
-        "category": "Accessories",
-        "price": 149.99,
-        "description": "Enjoy music without the hassle of wires.",
-        "in_stock": true,
-        "manufacturer": "AudioWave",
-        "ratings": 4.7,
-        "image_url": "https://example.com/images/headphones.jpg"
+        "name": "High Wall Tote",
+        "price": "$210",
+        "description": "A chic tote featuring elevated sidewalls, providing extra capacity and security while maintaining a trendy aesthetic.",
+        "availability": "Black and Orange",
+        "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-07-product-04.jpg",
+        "image_alt": "Front of zip tote bag with black canvas, black handles, and orange drawstring top."
       },
       {
         "id": 5,
-        "name": "Coffee Maker Deluxe",
-        "category": "Appliances",
-        "price": 79.99,
-        "description": "Brew the perfect cup of coffee every time.",
-        "in_stock": true,
-        "manufacturer": "KitchenMaster",
-        "ratings": 4.2,
-        "image_url": "https://example.com/images/coffee_maker.jpg"
+        "name": "Zip Tote Basket",
+        "price": "$140",
+        "description": "A practical and spacious carryall with a secure zip closure, combining style and function for organized storage.",
+        "availability": "White and Black",
+        "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-07-product-05.jpg",
+        "image_alt": "Front of zip tote bag with white canvas, black canvas straps and handle, and black zipper pulls."
       },
       {
         "id": 6,
-        "name": "Fitness Tracker",
-        "category": "Fitness",
-        "price": 49.99,
-        "description": "Monitor your activity and health on the go.",
-        "in_stock": true,
-        "manufacturer": "HealthTech",
-        "ratings": 4.0,
-        "image_url": "https://example.com/images/fitness_tracker.jpg"
-      },
-      {
-        "id": 7,
-        "name": "Gaming Mouse",
-        "category": "Gaming",
-        "price": 39.99,
-        "description": "Precise and responsive mouse for gamers.",
-        "in_stock": true,
-        "manufacturer": "GameGears",
-        "ratings": 4.6,
-        "image_url": "https://example.com/images/gaming_mouse.jpg"
-      },
-      {
-        "id": 8,
-        "name": "Home Security Camera",
-        "category": "Home",
-        "price": 129.99,
-        "description": "Keep an eye on your home with high-definition cameras.",
-        "in_stock": true,
-        "manufacturer": "SecureHome",
-        "ratings": 4.4,
-        "image_url": "https://example.com/images/security_camera.jpg"
-      },
-      {
-        "id": 9,
-        "name": "Bluetooth Speaker",
-        "category": "Audio",
-        "price": 59.99,
-        "description": "Portable speaker with rich sound quality.",
-        "in_stock": true,
-        "manufacturer": "SoundWave",
-        "ratings": 4.1,
-        "image_url": "https://example.com/images/bluetooth_speaker.jpg"
-      },
-      {
-        "id": 10,
-        "name": "Electric Toothbrush",
-        "category": "Personal Care",
-        "price": 34.99,
-        "description": "Efficient toothbrush for oral hygiene.",
-        "in_stock": true,
-        "manufacturer": "DentalCare",
-        "ratings": 4.5,
-        "image_url": "https://example.com/images/electric_toothbrush.jpg"
+        "name": "Zip High Wall Tote",
+        "price": "$150",
+        "description": "A stylish tote with zippered closure and raised walls, ensuring both fashion-forward design and secure storage space.",
+        "availability": "White and Blue",
+        "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-07-product-06.jpg",
+        "image_alt": "Front of zip tote bag with white canvas, blue canvas straps and handle, and front zipper pocket."
       }
     ]  
 }
