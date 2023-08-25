@@ -6,6 +6,7 @@
         "price": "$50",
         "description": "A sleek and adaptable organizer designed for various needs. Perfect for travel essentials, tech gadgets, or everyday items, ensuring convenient and stylish storage on the go.",
         "availability": "White and Black",
+        "inStock": true,
         "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-07-product-01.jpg",
         "image_alt": "White fabric pouch with white zipper, black zipper pull, and black elastic loop."
       },
@@ -15,6 +16,7 @@
         "price": "$140",
         "description": "A practical and spacious carryall with a secure zip closure, combining style and function for organized storage.",
         "availability": "Washed Black",
+        "inStock": true,
         "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-07-product-02.jpg",
         "image_alt": "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents."
       },
@@ -24,6 +26,7 @@
         "price": "$220",
         "description": "Compact and versatile satchel for everyday essentials, offering convenient storage with a touch of sophistication.",
         "availability": "Blue",
+        "inStock": true,
         "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-07-product-03.jpg",
         "image_alt": "Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch."
       },
@@ -33,6 +36,7 @@
         "price": "$210",
         "description": "A chic tote featuring elevated sidewalls, providing extra capacity and security while maintaining a trendy aesthetic.",
         "availability": "Black and Orange",
+        "inStock": true,
         "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-07-product-04.jpg",
         "image_alt": "Front of zip tote bag with black canvas, black handles, and orange drawstring top."
       },
@@ -42,6 +46,7 @@
         "price": "$140",
         "description": "A practical and spacious carryall with a secure zip closure, combining style and function for organized storage.",
         "availability": "White and Black",
+        "inStock": true,
         "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-07-product-05.jpg",
         "image_alt": "Front of zip tote bag with white canvas, black canvas straps and handle, and black zipper pulls."
       },
@@ -51,6 +56,7 @@
         "price": "$150",
         "description": "A stylish tote with zippered closure and raised walls, ensuring both fashion-forward design and secure storage space.",
         "availability": "White and Blue",
+        "inStock": true,
         "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-07-product-06.jpg",
         "image_alt": "Front of zip tote bag with white canvas, blue canvas straps and handle, and front zipper pocket."
       }
